@@ -13,3 +13,10 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+
+# casting
+x = '1'
+n = 2.8
+
+# print(x, type(x))
+print(int(n))
